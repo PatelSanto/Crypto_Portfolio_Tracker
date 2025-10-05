@@ -36,13 +36,13 @@ flutter run
 * **API:** CoinGecko API (Free Tier)
 * **Pattern:** Repository Pattern
 
-## 📚 Libraries Used
+## Libraries Used
 
-* `get: ^4.6.6` → State management & navigation
-* `http: ^1.2.0` → API calls
-* `shared_preferences: ^2.2.2` → Local persistence
-* `intl: ^0.19.0` → Number & currency formatting
-* `flutter_slidable: ^3.0.1` → Swipe actions
+* `get: ^4.7.2` → State management & navigation
+* `http: ^1.5.0` → API calls
+* `shared_preferences: ^2.5.3` → Local persistence
+* `intl: ^0.20.2` → Number & currency formatting
+* `flutter_slidable: ^4.0.3` → Swipe actions
 
 ## Project Structure
 ```
@@ -62,12 +62,8 @@ lib/
 ```
 
 ## Demo Video
+[Watch Demo]([https://your-video-link.com](https://drive.google.com/file/d/1gIODdOR9dvRrPZzTRxYuxRnANMSrWzWy/view?usp=sharing))
 
-Upload your demo video to **YouTube / Google Drive** and paste the link here:
-[Watch Demo](https://your-video-link.com)
-
-## 📱 APK Download
-
-Upload the APK to **Google Drive / GitHub Releases** and add the link:
-[Download APK](https://your-apk-link.com)
+## APK Download
+[Download APK]([https://your-apk-link.com](https://drive.google.com/file/d/168LMBW6RrlfqXF9wOlRZUf4I-dFNZv0l/view?usp=sharing))
 
