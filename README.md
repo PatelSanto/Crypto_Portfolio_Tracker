@@ -62,8 +62,7 @@ lib/
 ```
 
 ## Demo Video
-[Watch Demo]([https://your-video-link.com](https://drive.google.com/file/d/1gIODdOR9dvRrPZzTRxYuxRnANMSrWzWy/view?usp=sharing))
+[Watch Demo](https://drive.google.com/file/d/1gIODdOR9dvRrPZzTRxYuxRnANMSrWzWy/view?usp=sharing)
 
 ## APK Download
-[Download APK]([https://your-apk-link.com](https://drive.google.com/file/d/168LMBW6RrlfqXF9wOlRZUf4I-dFNZv0l/view?usp=sharing))
-
+[Download APK](https://drive.google.com/file/d/168LMBW6RrlfqXF9wOlRZUf4I-dFNZv0l/view?usp=sharing)
