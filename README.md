@@ -20,7 +20,8 @@ A Flutter application to track cryptocurrency portfolios with real-time prices f
 ### Installation
 
 # Clone the repository
-git clone [your-repo-url]
+git clone [https://github.com/PatelSanto/Crypto_Portfolio_Tracker.git]
+
 cd crypto_portfolio_tracker
 
 # Install dependencies
